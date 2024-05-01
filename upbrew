@@ -1,0 +1,5 @@
+#!/bin/bash
+
+brew update && echo 'Updated!'
+brew upgrade && echo 'Upgraded!' && echo 'Ready to Install!'
+afplay /System/Library/Sounds/Funk.aiff
